@@ -22,4 +22,3 @@ fun main() {
     .getHouse()
   print(house.bathRoom)
 }
-
